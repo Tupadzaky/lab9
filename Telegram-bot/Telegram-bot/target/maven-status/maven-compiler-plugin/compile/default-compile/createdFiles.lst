@@ -1,0 +1,4 @@
+com\example\telegrambot\bot\ApplicationContext.class
+com\example\telegrambot\bot\BotConfig.class
+com\example\telegrambot\TelegramBotApplication.class
+com\example\telegrambot\bot\InitialState.class
